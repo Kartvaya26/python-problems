@@ -1,0 +1,3 @@
+print("1 to 11")
+for i in range(1, 1000001):
+    print(i)
